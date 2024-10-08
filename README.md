@@ -1,0 +1,2 @@
+# CustomerSegmentationKmeans
+ML project
